@@ -1,5 +1,10 @@
 # Motorq-Assignement
 
+Demo link:
+
+https://youtu.be/W0Eg1_fGe8Q
+
+
 How To Run this Project
 Go to Project Directory cd MotorqAssignment
 Create a Virtual Environment python -m venv env
