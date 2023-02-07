@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    -webkit-font-smoothing:antialiased ;
+    padding :0;
+    margin: 0;
+     
+}
+ .container{
+    display:flex;
+ }
+
+
+#map { height: 100vh;
+width:75vw }
+
+.EventLocation {
+    width: 25vw;
+    height: 100vh;
+    overflow: auto;
+    background: whitesmoke;
+}
+
+.EventLocation.heading{
+    background: #466799;
+    color: #fff;
+}
+
+.EventLocation.heading h2{
+    padding: 1rem;
+}
+
+.EventLocation ul.list{
+    padding: 0 1rem;
+    list-style-type: none;
+}
+
+.EventLocation.fest-item{
+    margin:1rem 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    padding-bottom: 1rem;
+}
+
+
